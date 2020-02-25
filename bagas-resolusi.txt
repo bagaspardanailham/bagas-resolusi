@@ -1,3 +1,5 @@
 BAGAS - RESOLUTION
 - Menguasai OOP PHP
 - Menguasai Codeigneter / Laravel
+- Membuat website pribadi
+- Belajar react native
