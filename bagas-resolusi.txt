@@ -1,0 +1,3 @@
+BAGAS - RESOLUTION
+- Menguasai OOP PHP
+- Menguasai Codeigneter / Laravel
